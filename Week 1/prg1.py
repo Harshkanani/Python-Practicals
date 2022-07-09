@@ -4,4 +4,4 @@ def table(n):
             print(y*x, end ="\t")
         print()
 
-table(int(input("Enter the number of tabels you want to display : ")))
+table(int(input("Enter the number of tables you want to display : ")))
